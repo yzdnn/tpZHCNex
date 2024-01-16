@@ -25,8 +25,6 @@
 
   - ```taso``` 包含了许多黄昏作汉化所需的底层框架优化文件，配置简体中文补丁时需同时配置本补丁包。
 
-- ```thcrap_CNmanual_<version>.pdf```：thcrap 中文配置手册，其中```version```代表版本号。
-
 - **注：目前已将```taso```与```tsa```加入简体中文分支补丁默认依赖配置，一般情况下无需额外考虑配置的问题。**
 
 
@@ -48,8 +46,6 @@ This repository includes external patches for thpatch ``zh-hans`` (***Simplified
 - ```taso```: External patch for Tasofro's game (usually used for FTG like HM and later), *also* has familiar effects of ```nmlgc/script_latin```.
 
   - this patch contains many framework optimization files for Tasofro's game, it is necessary to deploy this patch when you configure.
-
-- ```thcrap_CNmanual_<version>.pdf```：thcrap unoffical user manual in Chinese. ```version``` is version number.
 
 - **Attention: Both ```taso``` and ```tsa``` now as the defult option when you deploy the ```lang_zh-hans``` patch. In general, there is no need considering how to configure it.**
 
