@@ -6,7 +6,7 @@
 		"tsa": "Used to make the STG game display the '♪' normally."
 	},
 	"servers": [
-		"https://mirrors.thpatch.rcopky.top/tpZHCNex/",
+		"hhttps://mirrors.lilywhite.cc/tpZHCNex/",
 		"https://mirrors.thpatch.net/tpZHCNex/",
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/"
 	],
