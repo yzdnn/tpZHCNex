@@ -37,15 +37,15 @@
 ---
 ## thpatch zh-hans ex-patches *Beta*
 
-This repository includes extra patches for thpatch ``zh-hans`` (***Simplified Chinese***) :
+This repository includes supplement patches for thpatch ``zh-hans`` (***Simplified Chinese***) :
 
-- ```tsa```： Extra patch for Team Shanghai Alice's game, works similarly to ```nmlgc/script_latin```.
+- ```tsa```： Supplement patch for Team Shanghai Alice's game, works similarly to ```nmlgc/script_latin```.
 
   - ```tsa``` Has few functions now, mainly used to patch the "♪" in **MusicRoom**, however, this patch would also be used for temporary bug fixes, so it would be good for installing.
 
-- ```taso```: Extra patch for Tasofro's game (usually used for FTG like HM and later), *also* works similarly to ```nmlgc/script_latin```.
+- ```taso```: Supplement patch for Tasofro's game (usually used for FTG like HM and later), *also* works similarly to ```nmlgc/script_latin```.
 
-  - Contains many foundamental files for Tasofro's game localization, Simplified Chinese patches won't work on Tasofro games without this patch.
+  - Contains foundamental files for Tasofro's game localization, Simplified Chinese patches won't work on Tasofro games without this patch.
 
 - **Note: Both ```taso``` and ```tsa``` are now added as dependencies of ```lang_zh-hans``` patch. In general, there is no need to install them seperately.**
 
