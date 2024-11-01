@@ -1,9 +1,7 @@
 {
 	"Touhou_Simhei.ttf": 2431742146,
-	"global.js": 502455143,
-	"patch.js": 3310486346,
-	"th11.js": 14541109,
-	"th12.js": 14541109,
+	"global.js": 2497292690,
+	"patch.js": 2338576357,
 	"th125.js": 14541109,
 	"th13.v1.00c.js": 3336463548,
 	"th14.v1.00b.js": 2222302551,
@@ -20,5 +18,20 @@
 	"th17.v1.00b.js": 2241752676,
 	"th18.v0.01b.js": 1628269586,
 	"th18.v1.00a.js": 1618780412,
-	"th185.v1.00a.js": 2993143457
+	"th18/dialog_203.js": 697923963,
+	"th18/dialog_204.js": 697923963,
+	"th185.v1.00a.js": 2993143457,
+	"th185/dialog_203.js": 2118547,
+	"th185/dialog_204.js": 2118547,
+	"th185_custom/dialog_103.bin": 1488643559,
+	"th185_custom/dialog_103.js": 2354020602,
+	"th185_custom/dialog_3.js": 3844721600,
+	"th185_custom/stringlocs.v1.00a.js": 108585497,
+	"th18_custom/dialog_103.bin": 1488643559,
+	"th18_custom/dialog_103.js": 2509043093,
+	"th18_custom/dialog_3.js": 4271356135,
+	"th18_custom/stringlocs.v0.01a.js": 486778147,
+	"th18_custom/stringlocs.v0.01b.js": 486778147,
+	"th18_custom/stringlocs.v1.00a.js": 486778147,
+	"th19.v0.01a.js": 1016839515
 }

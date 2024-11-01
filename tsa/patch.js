@@ -7,6 +7,7 @@
 	},
 	"id": "tsa",
 	"servers": [
+		"https://mirrors.thpatch.rcopky.top/tpZHCNex/tsa/",
 		"https://mirrors.thpatch.net/tpZHCNex/tsa/",
 		"https://raw.githubusercontent.com/Yanstory/tpZHCNex/master/tsa/"
 	],
